@@ -1,0 +1,3 @@
+Empate
+Jugador
+Máquina
