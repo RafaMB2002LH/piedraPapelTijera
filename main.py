@@ -37,7 +37,7 @@ def juego_piedra_papel_tijeras():
 
         maquina = eleccion_maquina()
         resultado = determinar_ganador(jugador, maquina)
-        print(f"Jugador eligió {jugador}, Máquina eligió {maquina}. Resultado: {resultado}")
+        print(f"Jugador eligió {jugador}, Máquina eligió {maquina}. Ganador: {resultado}")
         guardar_resultado(resultado)
 
 if __name__ == "__main__":

@@ -1,3 +1,14 @@
 Empate
 Jugador
 Máquina
+Empate
+Empate
+Empate
+Máquina
+Máquina
+Máquina
+Máquina
+Máquina
+Máquina
+Empate
+Jugador
